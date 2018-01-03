@@ -1,5 +1,11 @@
 # KalmanFilterExample13
 
-Kalman filter example 13: displaying the equations only is an example to use a Kalman filter that displays the equations.
+
+[Kalman filterer example](https://github.com/richelbilderbeek/KalmanFilterExample) that displays 
+the Kalman filter's equations.
 
 ![The equations](equations.png)
+
+# External links
+
+ * [KalmanFilterer](https://github.com/richelbilderbeek/KalmanFilterer): tool to explore and work with Kalman filters
